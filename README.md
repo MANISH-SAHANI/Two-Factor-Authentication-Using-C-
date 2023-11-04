@@ -1,4 +1,3 @@
-# T
 
 <h1 align="center" >Two Factor Authentication Using Csharp</h1>
 
