@@ -1,0 +1,30 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Register confirmation!";
+}
+
+<h1>@ViewData["Title"]</h1>
+@{
+    if (@Model.DisplayConfirmAccountLink)
+    {
+<p style="text-align: center;">
+        <div style="margin: 100px 500px;">
+            <picture>
+                <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f99a/512.webp" type="image/webp">
+                <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f99a/512.gif" alt="🦚" width="210" height="210">
+            </picture>
+        </div>
+
+    <a style="margin-left: 475px;" id="confirm-link" href="@Model.EmailConfirmationUrl">Click here to confirm your account</a>
+
+</p>
+    }
+    else
+    {
+<p>
+        Please check your email to confirm your account.
+</p>
+    }
+}
+
