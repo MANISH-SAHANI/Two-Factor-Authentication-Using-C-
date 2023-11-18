@@ -17,3 +17,12 @@ The primary objective of this project is to enhance the security of our .NET C# 
  Safeguard user accounts and sensitive data from unauthorized access.
 
  Monitor and log 2FA usage for security auditing and analysis.
+
+
+   
+<h2>UI Screen :  </h2> 
+
+![image-003](https://github.com/MANISH-SAHANI/Two-Factor-Authentication-Using-Csharp/assets/91081774/38fe0d33-f650-4355-9095-033eb312cf6b)
+
+
+
