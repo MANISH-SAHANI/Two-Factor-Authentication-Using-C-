@@ -25,4 +25,14 @@ The primary objective of this project is to enhance the security of our .NET C# 
 ![image-003](https://github.com/MANISH-SAHANI/Two-Factor-Authentication-Using-Csharp/assets/91081774/38fe0d33-f650-4355-9095-033eb312cf6b)
 
 
+<h2>To run the code :  </h2>
+
+Clone the repository
+
+```
+dotnet .run
+```
+
+
+
 
