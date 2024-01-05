@@ -27,10 +27,12 @@ The primary objective of this project is to enhance the security of our .NET C# 
 
 <h2>To run the code :  </h2>
 
+Clone the repository: 
 ```
-Clone the repository : https://github.com/MANISH-SAHANI/Two-Factor-Authentication-Using-Csharp.git
+https://github.com/MANISH-SAHANI/Two-Factor-Authentication-Using-Csharp.git
 ```
 
+To Run:
 ```
 dotnet .run
 ```
